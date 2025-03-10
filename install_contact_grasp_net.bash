@@ -59,7 +59,7 @@ fi
 cd "$REPO_DIR"
 if [ ! -d "$REPO_DIR/test_data" ]; then
     echo "Downloading test data..."
-    gdown --folder "https://drive.google.com/drive/folders/1chRprUBdITSYEjrP7O2eXnC_7Zk5ZRFl"
+    gdown --folder "https://drive.google.com/drive/folders/1chRprUBdITSYEjrP7O2eXnC_7Zk5ZRFl?usp=sharing"
 fi
 
 # Ensure test_data folder exists and contains .npy files
