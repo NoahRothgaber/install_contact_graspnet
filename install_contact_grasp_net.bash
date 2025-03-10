@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd "$HOME"
 # Check if Anaconda is installed
 if [ -d "$HOME/anaconda3" ] && [ -x "$HOME/anaconda3/bin/conda" ]; then
     echo "Anaconda is already installed at $HOME/anaconda3."
