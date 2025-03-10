@@ -3,4 +3,4 @@ To run this file, simply clone the repository using the command \
 then change the permissions on the script file within the folder with this command \
 **cd install_contact_graspnet && chmod +777 install_contact_grasp_net.bash** \
 and finally run the script with \
-**./install_contact_grasp_net.bash** \
+**./install_contact_grasp_net.bash**
